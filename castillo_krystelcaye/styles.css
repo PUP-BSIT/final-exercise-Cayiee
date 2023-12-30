@@ -50,6 +50,7 @@ body {
 .works,
 .testimonials,
 .goals,
+.journal,
 .gallery {
     background: rgba(255, 255, 255, 0.5); 
     border-radius: 15px;
@@ -63,6 +64,7 @@ body {
 .works h2,
 .testimonials h2,
 .goals h2,
+.journal h2,
 .gallery h2 {
     color: #E8707D;
     text-align: center;
